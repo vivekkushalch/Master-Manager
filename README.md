@@ -1,7 +1,7 @@
 # Master-Manager
 An EMS(Employee Management System) written in pure Python with Tkinter.
-<object data="https://github.com/vivekkushalch/Master-Manager/blob/main/DOCS/MASTER-MANAGER.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/vivekkushalch/Master-Manager/blob/main/DOCS/MASTER-MANAGER.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/vivekkushalch/Master-Manager/blob/main/DOCS/MASTER-MANAGER.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+
+
+![README.pdf](https://github.com/vivekkushalch/Master-Manager/blob/main/DOCS/MASTER-MANAGER.pdf)
+
+
