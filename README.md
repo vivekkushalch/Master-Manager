@@ -4,6 +4,8 @@
 
 ![Screenshot](https://github.com/vivekkushalch/Master-Manager/blob/main/Screenshot.PNG)
 
+![Visitors](https://visitor-badge.deta.dev/badge?page_id=Master-Manager.visitor-badge) ![Issues](https://img.shields.io/github/issues/vivekkushalch/Master-Manager) ![Forks](https://img.shields.io/github/forks/vivekkushalch/Master-Manager) ![Stars](https://img.shields.io/github/stars/vivekkushalch/Master-Manager) ![Lisence](https://img.shields.io/github/license/vivekkushalch/Master-Manager) ![Downloads](https://img.shields.io/github/downloads/vivekkushalch/Master-Manager/total?l&color=green)
+
 Made With
 ---
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Tkinter](https://img.shields.io/badge/Tkinter-ffdd54?style=for-the-badge&logo=python&logoColor=3670A0)
