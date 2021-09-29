@@ -19,6 +19,17 @@ Features
 - Dashboard.
 - Password Protected database and application.
 
+Installation
+---    
+You can use pip:
+
+      pip install -r requirements.txt
+      
+You can also use venv:
+
+    python -m venv env && env\Scripts\activate.bat && pip install -r requirements.txt && cls && MASTER-MANAGER.py
+  
+
 Help and Usage
 ---
 > [DOCS/MASTER-MANAGER.pdf](https://github.com/vivekkushalch/Master-Manager/blob/main/DOCS/MASTER-MANAGER.pdf)
