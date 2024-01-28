@@ -5,4 +5,4 @@ openpyxl==3.0.7
 #Pillow==8.3.2
 
 #Updated Pillow version (should work just fine)
-Pillow==10.0.1
+Pillow==10.2.0
